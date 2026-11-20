@@ -147,7 +147,7 @@ h1 {
 .btn:hover { background: var(--aqua); color: var(--ink); transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--ink); }
 .btn:active { transform: translate(6px, 6px); box-shadow: 0 0 0 var(--ink); }
 
-@media (max-width: 420px) {
+@media (max-width: 400px) {
   h1 { font-size: 1.8rem; }
   .sun { width: 200px; height: 200px; }
   .card { width: 90% }
